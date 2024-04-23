@@ -1,0 +1,1 @@
+# MicroserviceEdu-RabbitMQ
